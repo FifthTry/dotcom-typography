@@ -3,6 +3,4 @@
 -- fastn.package: fifthtry.github.io/dotcom-typography
 download-base-url: https://raw.githubusercontent.com/fifthtry/dotcom-typography/main
 
--- fastn.dependency: fifthtry.github.io/doc-site as ds
-
--- fastn.auto-import: ds
+-- fastn.dependency: fifthtry.github.io/inter-font
