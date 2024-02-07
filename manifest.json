@@ -1,0 +1,26 @@
+{
+  "files": {
+    "FASTN.ftd": {
+      "name": "FASTN.ftd",
+      "checksum": "FB2835075D4F004230EEE5E82717CFEAED84C8247A0B33EF89133669FBFF003C",
+      "size": 210
+    },
+    "README.md": {
+      "name": "README.md",
+      "checksum": "40B5C8C5B77CAC5C7C97F35B8DEC1D9BAC03982512E1955949989AD4CBB1E664",
+      "size": 1335
+    },
+    "doc-site-example.png": {
+      "name": "doc-site-example.png",
+      "checksum": "611E21D16829D0FACDB5D2C21ABA2ADF95BF7359DAFA16FCE1351F0AC0E5C44B",
+      "size": 90059
+    },
+    "index.ftd": {
+      "name": "index.ftd",
+      "checksum": "FD422CD7F4B5AE5931B15C038E291DCFD486D0102C16D25D23DDEC448735E6A6",
+      "size": 15132
+    }
+  },
+  "zip_url": "https://codeload.github.com/fifthtry/dotcom-typography/zip/refs/heads/main",
+  "checksum": "AC999A35A44BAF5E933738919FCF881E325808DC66BD87B03A79ACC97FB3F4C6"
+}
